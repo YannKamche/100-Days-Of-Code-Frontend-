@@ -1,4 +1,4 @@
-# Day2
+# Day 2
 
 Dec 28, 2022
 Still on HTML
