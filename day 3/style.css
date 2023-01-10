@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(232, 233, 237)
+}
+blockquote {
+    font-size: 20px;
+    border: 3px solid black;
+    padding: 5px;
+    margin: 50px;
+}
+p{
+    font-family:'Pacifico';
+
+}
+h4 {
+    padding: 40px;
+}
+
+p.image{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+a{
+    font-size: 30px;
+}

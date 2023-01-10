@@ -1,0 +1,35 @@
+li {
+    list-style-type: square;
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form {
+    background-color: rgb(227, 33, 136); 
+    color: white; 
+    padding: 20px;
+}
+span {
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+}
+h1 {
+    color: rgb(29, 225, 32);
+    text-decoration:underline;
+}
+body {
+    background-color: rgba(202, 140, 235, 0.815);
+}
+p {
+    font-size:20px
+
+}
+.capital{
+    background-color: rgb(245, 89, 46);
+    color: white;
+    padding: 10px;
+    font-size: 100%;
+}

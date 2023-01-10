@@ -1,0 +1,45 @@
+#title1 {
+    list-style-type: square;
+    text-decoration: underline;
+    color: rgb(198, 42, 42);
+    font-size: 20px;
+    font-weight: bold;
+}
+#title2 {
+    list-style-type: square;
+    text-decoration: underline;
+    color: rgb(201, 29, 29);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form {
+    background-color: rgb(107, 33, 227); 
+    color: white; 
+    padding: 20px;
+}
+span {
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+}
+h1 {
+    color: rgb(29, 225, 32);
+    text-decoration:underline;
+}
+body {
+    background-color: rgba(205, 165, 226, 0.925);
+}
+p {
+    font-size:20px
+
+}
+.capital{
+    background-color: rgb(105, 17, 247);
+    color: white;
+    padding: 10px;
+    font-size: 100%;
+}
+#firstTitle{
+    color: rgb(234, 55, 15);
+}

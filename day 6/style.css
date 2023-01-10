@@ -1,0 +1,18 @@
+table, th, td {
+    border: 1px solid rgb(255, 255, 255);
+    border-style: dotted;
+}
+th, td {
+    background-color: #20bebe;
+    border-radius: 30px;
+    border-color: rgb(102, 35, 100);
+    
+}
+
+a {
+    background-color: rgb(13, 209, 26);
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+    
+}

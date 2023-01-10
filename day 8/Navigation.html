@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation</title>
+</head>
+<style>
+    body {
+        background-color: rgb(239, 236, 250);
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #8416b8;
+    }
+
+    li {
+        float: left;
+    }
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 16px;
+        text-decoration: none;
+    }
+    li a:hover {
+        background-color: #4a3333;
+    }
+    
+</style>
+<body>
+    <h1>Horizontal List with CSS</h1>
+    <p>HTML lists can be styled in many different ways with CSS</p>
+    <p>One popular way is to style horizontally, to create a navigation menu</p>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#email">Email</a></li>
+        <li><a href="#services">Services</a></li>
+    </ul>
+
+    <h3>HTML Ordered Lists</h3>
+    <p>The type attribute of the ol tag defines the type of list item marker</p>
+    <ol type="1" start="50">
+        <li style="float: none;">Coffee</li>
+        <li style="float: none;">Tea</li>
+    </ol>
+    <h3>Ordered Nested Lists</h3>
+    <ol type="A" start="5">
+        <li style="float: none;">Tea</li>
+        <li style="float: none;">
+            Coffee
+            <ol>
+                <li style="float: none;"  >Black Tea</li>
+                <li style="float: none;" >Green Tea</li>
+            </ol>
+        </li>
+    </ol>
+</body>
+</html>
