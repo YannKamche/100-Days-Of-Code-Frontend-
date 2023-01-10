@@ -1,11 +1,10 @@
-# day 1 
+# day 12
 
-Dec 30, 2022
-#Day1 of the challenge
-Started with some basic #HTML 
-Currently learning on 
-@w3schools
-.
- After falling into traps of inconsistency, understood that starting small is the key.
-I no longer pursue the exotic as long as I ain't mastered the basics.
-#noMotivation 🙅‍♂️🙅‍♂️ I just do it!
+Jan 7, 2022
+
+Learnt #HTML forms and some of its elements and forms attributes. Besides, I learnt how to push a local repository to 
+@github
+, clone and how to create #branches using 
+@faradayacademy
+ crash course. Check it out. It's very explanatory👌
+#practice #patience🙂
