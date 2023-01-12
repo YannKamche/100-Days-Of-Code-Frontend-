@@ -7,6 +7,8 @@ Been learning basics of #HTML and #CSS on #w3school. Now, I Officially start a n
  🚀🚀😊 with Responsive Web Design course. I worked on the Cat Photo App.
 I was amazed at how fast I finished it😂😂✌️.
 
-This app makes you learn the basic HTML syntaxes while coding an App.
+HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
+
+In this course, you learn the most common HTML tags by building your own cat photo app.
 
 #NoMotivation🙅‍♂️🙅‍♂️
