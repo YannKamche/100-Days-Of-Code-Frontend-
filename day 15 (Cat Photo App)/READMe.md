@@ -9,5 +9,4 @@ I was amazed at how fast I finished it😂😂✌️.
 
 This app makes you learn the basic HTML syntaxes while coding an App.
 
-
 #NoMotivation🙅‍♂️🙅‍♂️
