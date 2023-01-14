@@ -8,4 +8,3 @@ Still learning on freecodeCamp
 
 Learnt some basics CSS properties like padding, margin, font-size, font-family
 
-Keep #practicing till you become good at it
