@@ -1,0 +1,9 @@
+# Day 18
+
+Jan 14, 2023
+
+Updated the index.html and css file. <br>
+
+Learnt some basics CSS properties like padding, margin, font-size, font-family
+
+Keep #practicing till you become good at it
